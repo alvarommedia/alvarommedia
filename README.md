@@ -16,8 +16,8 @@ Aunque soy nuevo en el desarrollo web profesional, he completado varios proyecto
 
 ### 📫 Cómo contactarme:
 
-- Email: [hola@alvarommedia.com]
-- LinkedIn: [[URL de tu perfil de LinkedIn](https://www.linkedin.com/in/alvarommedia/)]
+- Email: [hola@alvarommedia.com](hola@alvarommedia.com)
+- LinkedIn: [Alvaro Martin](https://www.linkedin.com/in/alvarommedia/)
 
 ### 🤝 Colaboración:
 
