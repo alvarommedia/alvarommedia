@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**alvarommedia/alvarommedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desarrollador Front-End Junior
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo web, con un enfoque particular en el front-end. Aunque estoy en las etapas iniciales de mi carrera como desarrollador, estoy comprometido a aprender y crecer en este campo. Aquí encontrarás proyectos que he creado o en los que he colaborado, los cuales reflejan mi progreso y pasión por el desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Lo que estoy aprendiendo:
+
+- HTML5, CSS3, y JavaScript
+- Herramientas de desarrollo como Git, GitHub.
+- Responsive Design y principios de UX/UI
+
+### 💼 Experiencia
+
+Aunque soy nuevo en el desarrollo web profesional, he completado varios proyectos personales y cursos que me han proporcionado una sólida base en las tecnologías front-end.
+
+### 📫 Cómo contactarme:
+
+- Email: [hola@alvarommedia.com]
+- LinkedIn: [[URL de tu perfil de LinkedIn](https://www.linkedin.com/in/alvarommedia/)]
+
+### 🤝 Colaboración:
+
+Estoy abierto a colaborar en proyectos interesantes relacionados con el desarrollo front-end. Si tienes una idea o necesitas ayuda con un proyecto, ¡no dudes en contactarme!
+
+---
+
+Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante!
+
+
